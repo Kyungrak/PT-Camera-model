@@ -2,8 +2,6 @@
 
 Designed mathematical model of pan-tilt camera to simulate its bounded field-of view. this model can simulate its field-of-view (FOV) on the camera position and orientation, as well as the target position in the region of interests (ROI). To keep the target in the center area of the camera’s FOV, a simple PID controller was designed to control the desired pan and tilt angle. After the movement of the target over time, the target is still in the center area of the camera’s FOV.
 
-## Getting Started
-
 ### Result
 
 Here is the result, see simulation video: https://www.youtube.com/watch?v=DLapzyhzNdk
