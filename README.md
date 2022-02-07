@@ -4,6 +4,6 @@ Designed mathematical model of pan-tilt camera to simulate its bounded field-of 
 
 ### Result
 
-Here is the result, see simulation video: https://www.youtube.com/watch?v=DLapzyhzNdk
+Here is the result, see [simulation video](https://www.youtube.com/watch?v=DLapzyhzNdk): 
 
 <img width="547" alt="Screen Shot 2022-02-06 at 7 46 30 PM" src="https://user-images.githubusercontent.com/94488336/152709108-79db2cbc-fc91-4da5-8ce0-7b78f636e464.png">
